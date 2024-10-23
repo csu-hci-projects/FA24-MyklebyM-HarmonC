@@ -5,6 +5,11 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/cam_the_camel/Documents/Unreal Projects/FA24-MyklebyM-HarmonC/MM_HC_Project/Content/Level2.umap",
+				"C:/Users/cam_the_camel/Documents/Unreal Projects/FA24-MyklebyM-HarmonC/MM_HC_Project/Content/Level3.umap",
+				"C:/Users/cam_the_camel/Documents/Unreal Projects/FA24-MyklebyM-HarmonC/MM_HC_Project/Content/StarterContent/Textures/T_Rock_Marble_Polished_Mat.uasset",
+				"C:/Users/cam_the_camel/Documents/Unreal Projects/FA24-MyklebyM-HarmonC/MM_HC_Project/Content/StarterContent/Props/SM_Stairs_Blueprint.uasset",
+				"C:/Users/cam_the_camel/Documents/Unreal Projects/FA24-MyklebyM-HarmonC/MM_HC_Project/Content/BluePrints/Health.uasset",
 				"C:/Users/cam_the_camel/Documents/Unreal Projects/MM_HC_Project/Content/StarterContent/Architecture/Floor_400x400.uasset"
 			]
 		}
